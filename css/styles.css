@@ -204,7 +204,7 @@ span {
   height: 42px;
   border-radius: 50%;
   background-color: var(--red-background);
-  border: 5px solid rgba(122, 73, 85, 0.3);
+  border: 5px solid rgba(211, 190, 196, 1);
   flex-shrink: 0;
 }
 
