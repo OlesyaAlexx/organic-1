@@ -63,7 +63,7 @@ h4 {
 
 .how-it-work {
   background-color: var(--green-background);
-  /*  background: linear-gradient(to right, #7a3145 50%, #576f35 50%); */
+  background: linear-gradient(to right, #7a3145 50%, #576f35 50%);
 }
 
 .section-main-container {
@@ -149,7 +149,7 @@ h4 {
   margin-bottom: 25px;
   width: 450px;
 }
-span {
+.subtitle-span {
   color: rgba(251, 251, 251, 0.3);
   font-size: 32px;
   font-style: normal;
