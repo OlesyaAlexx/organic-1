@@ -359,7 +359,6 @@ button {
     );
   }
   .section-main-container {
-    display: inline-flex;
     flex-direction: row;
   }
   .work-image-conteiner {
@@ -368,21 +367,21 @@ button {
     padding-top: 100px;
     padding-bottom: 100px;
     padding-right: 100px;
-    width: 630px;
+
     background-color: #7a3145;
   }
   .work-picture {
-    width: 450px;
+    width: 430px;
     height: 559px;
   }
 
   .container-img {
-    width: 450px;
+    width: 430px;
     height: 559px;
   }
 
   .work_photo {
-    width: 450px;
+    width: 430px;
     height: 559px;
   }
 
@@ -392,6 +391,5 @@ button {
     padding-bottom: 160px;
     padding-left: 100px;
     padding-right: 0px;
-    width: 650px;
   }
 }
